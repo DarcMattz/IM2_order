@@ -1,0 +1,10 @@
+C:\Users\johnv\source\repos\Order\bin\Debug\Order.exe.config
+C:\Users\johnv\source\repos\Order\bin\Debug\Order.exe
+C:\Users\johnv\source\repos\Order\bin\Debug\Order.pdb
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.Form1.resources
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.Properties.Resources.resources
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.exe
+C:\Users\johnv\source\repos\Order\obj\Debug\Order.pdb
